@@ -1,0 +1,1 @@
+This is a term project of Functional Programming course. You can learn the details from project pdf.
